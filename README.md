@@ -22,6 +22,6 @@ Not accepting pull requests at this time.
 
 ###### For questions, please contact me at tldavis09@yahoo.com
 
-![demo](/src/assets/demo.PNG)
+![demo](/client/src/assets/demo.PNG)
 
 [![Generic badge](https://img.shields.io/badge/reactPortfolio--purple.svg)](https://shields.io/)
