@@ -12,7 +12,7 @@
 
 Not intended to be my professional portfolio. This was an example portfolio created using React. Bio, contact functionality, and improved design are pending.
 
-The application was deployed using Heroku: [URL](https://protected-brushlands-29403.herokuapp.com/)
+The application was deployed using Heroku: [URL](https://mysterious-plains-84700.herokuapp.com/)
 
 ## Contributing
 
