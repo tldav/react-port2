@@ -1,0 +1,21 @@
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	background-image: url("../assets/nav-image.png");
+	padding-bottom: 10px;
+}
+
+.footer ul {
+	list-style-type: none;
+	display: flex;
+	margin-bottom: 0;
+	justify-content: center;
+}
+
+.footer li {
+	padding: 0 45px;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+}

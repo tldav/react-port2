@@ -1,0 +1,22 @@
+.navbar {
+	background-image: url("../assets/nav-image.png");
+}
+
+.navbar ul {
+	list-style-type: none;
+	display: inline-flex;
+	align-self: flex-end;
+	margin-bottom: 0;
+}
+
+.navbar li {
+	padding: 0 15px;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+}
+
+.navbar h1 {
+	font-size: 40px;
+	margin-bottom: 0;
+}

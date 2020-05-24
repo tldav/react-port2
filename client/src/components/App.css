@@ -1,0 +1,90 @@
+body {
+	background-image: url("../assets/bg-image.png");
+}
+
+.my-container {
+	padding: 50px;
+	margin-top: 50px;
+}
+
+.title {
+	color: #fff;
+}
+
+.stage {
+	background-image: url("../assets/nav-image.png");
+	padding: 20px;
+	padding-top: 0;
+	border-radius: 20px;
+}
+
+p {
+	font-weight: bold;
+	font-size: 17px;
+	line-height: 1.7em;
+}
+
+.btn {
+	background-image: url("../assets/bg-image.png");
+	color: #fff;
+}
+
+.btn:hover {
+	color: rgb(158, 113, 158);
+}
+
+a,
+button {
+	color: #fff;
+	background-image: url("../assets/bg-image.png");
+	padding: 5px 10px;
+}
+
+a:hover {
+	color: rgb(158, 113, 158);
+}
+
+button:hover {
+	color: rgb(158, 113, 158);
+}
+
+button:focus {
+	outline: 0;
+}
+
+.description {
+	font-style: italic;
+	border: solid 2px black;
+	border-radius: 5px;
+	padding: 0 5px;
+	background-color: #ddd;
+}
+
+.project-nav {
+	background-image: url("../assets/nav-image.png");
+}
+
+.project-nav ul {
+	list-style-type: none;
+	display: flex;
+	justify-content: space-around;
+	margin: 0;
+	/* margin-bottom: 25px; */
+}
+
+.project-nav li {
+	padding: 0 15px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.project-nav button {
+	border: none;
+	font-weight: bold;
+}
+
+.project-name {
+	border-top: solid 7px transparent;
+	border-image: url("../assets/bg-image.png") 30 stretch;
+	padding-top: 10px;
+}
