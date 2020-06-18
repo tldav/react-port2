@@ -11,30 +11,19 @@ const About = () => {
 					alt="Thomas Davis"
 					style={{ float: "left", padding: "10px" }}
 				/>
-				<p>
-					Lorem ipsum dolor sit amet consectetur adipisicing elit.
-					Nulla ipsam minus, laborum provident, quo possimus ullam vel
-					error nemo fugiat aliquam ut ducimus praesentium laudantium
-					voluptates eius ab mollitia et. Lorem ipsum dolor sit amet
-					consectetur adipisicing elit. Id, quisquam sequi distinctio
-					ex quaerat voluptate cumque nam repudiandae, doloribus
-					perspiciatis atque minima possimus maxime ut voluptatibus
-					repellendus delectus debitis dicta? Lorem ipsum dolor sit
-					amet consectetur adipisicing elit. Suscipit dignissimos
-					sapiente ex itaque deserunt ut exercitationem, laborum rem.
-					Consequatur eaque sit velit explicabo officia rerum aliquid
-					sint vel exercitationem quisquam! Lorem ipsum dolor, sit
-					amet consectetur adipisicing elit. Molestias dignissimos
-					ducimus quas velit ipsa praesentium quo non, nostrum ab
-					natus doloribus et, fuga debitis enim? Culpa harum ad odio.
-					Voluptatibus. Lorem ipsum dolor sit amet consectetur
-					adipisicing elit. Nihil vel enim inventore laborum dicta ut
-					ex illo assumenda ratione veniam, voluptatibus quos quae.
-					Fugit alias repellat modi facilis, ullam sapiente! Lorem
-					ipsum dolor sit amet consectetur adipisicing elit. Nobis
-					illum officiis neque, eveniet adipisci natus soluta illo.
-					Repudiandae sunt, expedita architecto quas ea assumenda
-					delectus ad in aut, nobis similique!
+
+				<p style={{ marginBottom: "30px", marginTop: "10px" }}>
+					Software Developer with a background in insurance fraud
+					analysis and special investigations. With a recently earned
+					certificate in Full Stack Development from Southern
+					Methodist University, my ambition is to construct
+					captivating applications that focus on the user first.
+					Ardent love for aesthetic design and a penchant for abstract
+					problem-solving inspire perpetual elevation of my
+					proficiency as a developer. Created full stack applications
+					with several technologies, including JavaScript, CSS, React,
+					Node, Express, MySQL, MongoDB, and more. Excited to continue
+					to learn and grow in a professional environment.
 				</p>
 			</div>
 		</div>
