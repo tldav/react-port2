@@ -26,7 +26,7 @@
 	{
 		"id": 4,
 		"name": "Charity Tracker",
-		"description": "Organize non-profit organizations for your business. Created using React, Material-UI, Framer Motion, Charity Navigator API, Node, Express, bcrypt, and MongoDB with Mongoose. See README for mock login credentials.",
+		"description": "Manage non-profit organizations to partner with your business. Created using React, Material-UI, Framer Motion, Charity Navigator API, Node, Express, bcrypt, and MongoDB with Mongoose. See README for mock login credentials.",
 		"image": "./assets/fitness-tracker.PNG",
 		"appUrl": "https://charity-wowness.herokuapp.com/",
 		"repoUrl": "https://github.com/tldav/charity-tracker"

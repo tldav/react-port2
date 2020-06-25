@@ -1,6 +1,6 @@
 import React from "react";
 import "./Footer.css";
-import resume from "../assets/tdavis-developer-resume.pdf";
+import resume from "../assets/tdavis-resume.pdf";
 
 const Footer = () => {
 	return (
