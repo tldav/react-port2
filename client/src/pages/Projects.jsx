@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import yodascope from "../assets/yodascope.PNG";
 import plummit from "../assets/plumm-it.PNG";
 import fitnessTracker from "../assets/fitness-tracker.PNG";
+import charityTracker from "../assets/Capture.PNG";
 import projectInfo from "../project-info.json";
 
 class Projects extends Component {
@@ -36,21 +37,21 @@ class Projects extends Component {
 		});
 	};
 
-	onFitnessSelect = () => {
+	onCharitySelect = () => {
 		this.setState({
-			id: projectInfo[2].id,
-			name: projectInfo[2].name,
-			description: projectInfo[2].description,
-			image: fitnessTracker,
-			appUrl: projectInfo[2].appUrl,
-			repoUrl: projectInfo[2].repoUrl
+			id: projectInfo[3].id,
+			name: projectInfo[3].name,
+			description: projectInfo[3].description,
+			image: charityTracker,
+			appUrl: projectInfo[3].appUrl,
+			repoUrl: projectInfo[3].repoUrl
 		});
 	};
 
 	render() {
 		return (
 			<div>
-				<h2 className="title">My Work</h2>
+				<h2 className="title">Some of My Work</h2>
 				<div className="stage">
 					<div className="project-nav mb-4">
 						<ul>
@@ -65,8 +66,8 @@ class Projects extends Component {
 								</button>
 							</li>
 							<li>
-								<button onClick={this.onFitnessSelect}>
-									Fitness Tracker
+								<button onClick={this.onCharitySelect}>
+									Charity Tracker
 								</button>
 							</li>
 						</ul>
